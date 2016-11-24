@@ -41,8 +41,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 5%;
+    padding-bottom: 15%;
 }
 
 .intro-message > h1 {
@@ -182,6 +182,10 @@ p.copyright {
 .logo{
   height: 100px;
   width: 250px;
+}
+
+#fflink{
+  margin: 5%;
 }
 
 .navbar-right {
