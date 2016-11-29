@@ -198,6 +198,18 @@ p.copyright {
   height: 96px;
 }
 
+#codeit{
+  font-size: 24px;
+  padding-left: 15px;
+}
+
+.picvid{
+  padding-top: 15px;
+}
+
+.buttonvids{
+  padding-top: 50px;
+}
 .navbar-right {
     float: right!important;
     margin-right: -15px;
