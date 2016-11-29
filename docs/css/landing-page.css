@@ -194,6 +194,10 @@ p.copyright {
   font-size: 28px;
 }
 
+#logoFF{
+  height: 96px;
+}
+
 .navbar-right {
     float: right!important;
     margin-right: -15px;
